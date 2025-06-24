@@ -1,6 +1,7 @@
 # Chocolate-Sales-Analysis-2024
 This dashboard provides a clear and visually appealing overview of chocolate sales performance for the year 2024. 
-![Uploading NEW SKY INTL..png…]()
+![NEW SKY INTL](https://github.com/user-attachments/assets/45d45a44-f5aa-4ebd-9a4d-fa2ca05ed951)
+
 
 This dashboard provides a clear and visually appealing overview of chocolate sales performance for the year 2024. It encompasses insights across several dimensions such as top sales personnel, revenue distribution by product and country, shipping volumes, and sales trends over time. The aim is to evaluate performance effectiveness and identify growth opportunities within different markets and product categories.
 
